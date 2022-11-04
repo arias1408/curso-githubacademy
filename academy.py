@@ -18,4 +18,4 @@ pesquisa.send_keys(Keys.RETURN)
 
 time.sleep(8)
 driver.close()
-# Qualquer coisa.
+# Qualquer coisa. Mas alem de qualquer coisa foi incluido este texto.
